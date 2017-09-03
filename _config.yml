@@ -1,21 +1,21 @@
 
 title: My Resume
-url: 'http://junlulocky.com'
-baseurl: '/PanelCV' #change it according to your repository name
+url: 'http://vineeth.github.io'
+baseurl: '/Resume' #change it according to your repository name
 
 
 
 # Profile information
-yourname: Brown Smith  ## put your name
-title: 'GRAPHIC &amp; WEB DESIGNER'  ## your title
-location: San Francisco , CA
+yourname: Vineeth Karanam  ## put your name
+title: 'SOFTWARE DEVELOPER'  ## your title
+location: Noida, UP
 
 
 ## Social Profiles
-facebook: http://www.facebook.com  ## your facebook account url
-twitter: http://www.twitter.com  ## your twitter account url
-linkedin: http://www.linkedin.com  ## your linkedin account url
-dribbble: http://www.dribble.com  ## you dribbble account url
+facebook: https://www.facebook.com/vineeth.karanam  ## your facebook account url
+twitter: https://twitter.com/vineeth_karanam  ## your twitter account url
+linkedin: https://www.linkedin.com/in/vineeth-karanam/  ## your linkedin account url
+github: https://github.com/vineethpisvas1  ## you github account url
 foursquare: http://www.foursquare.com  ## your foursquare account url
 
 
